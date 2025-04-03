@@ -1,3 +1,3 @@
 # Whether-
 
-## URL: https://github.com/asanm10522cs16/Whether-.git
+## URL: https://asanm10522cs16.github.io/Whether-/
